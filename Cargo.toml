@@ -1,0 +1,9 @@
+[package]
+name = "Art"
+version = "0.1.0"
+authors = ["Liz <liz.wells@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+image = "*"
